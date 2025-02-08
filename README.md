@@ -1,7 +1,7 @@
 [![Crates.io](https://shields.io/crates/v/rsan)](https://crates.io/crates/rsan)
 
 # RSAN
-A File Format for easy Array notation.
+A File Format for easy, fast and lightweight Array notation.
 
 # General Information
   - Grew on a Notepad Projekt
