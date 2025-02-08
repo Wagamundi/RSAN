@@ -3,7 +3,7 @@
 # RSAN
 A File Format for easy, fast and lightweight Array notation.
 
-# General Information
+## General Information
   - Grew on a Notepad Projekt
   - Is there to Help save arrays in a easy to read way
   - makes it possible to edit data fast in a normal text editor
@@ -11,7 +11,7 @@ A File Format for easy, fast and lightweight Array notation.
   - It possibly is ultra bad, but i will work on it from while to while
   - Isn´t there to replace things like JSON or YML
 
-# Examples:
+## Examples:
 Structure
 ```rust
 [Notes]
@@ -104,11 +104,11 @@ pub async fn example() -> () {
 }
 ```
 
-# Flaws
+## Flaws
   - Deletes ' " ' at the end of an Value, just put a space there then it wont delete them.
   - If you find some tell me
 
-# TO-DO list
+## TO-DO list
   - Adding Comment functunality
   - Adding function to write a whole Array at once and don´t have to loop through it
   - Fixing Bugs
