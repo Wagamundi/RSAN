@@ -10,5 +10,3 @@ keywords = ["array", "notation", "File"]
 categories = ["parsing"]
 license = "MIT OR Apache-2.0"
 exclude = ["test.rsan", "Projekt_RSAN.code-workspace", ".gitignore"]
-
-[dependencies]
