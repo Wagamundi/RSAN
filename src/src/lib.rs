@@ -109,4 +109,12 @@ impl RSANFile {
             .get(category)
             .map_or(Vec::new(), |c| c.entries.clone())
     }
+
+    pub fn get_categorys(&self) -> Vec<String> {
+        self.categories.keys().cloned().collect()
+    }
+
+    pub fn length(&self) -> usize {
+        self.categories.len()
+    }
 }
