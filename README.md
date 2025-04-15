@@ -77,6 +77,7 @@ pub async fn example() -> () {
 ## Flaws
 
 - Possibly some, but for my usecase, I couldn't find any, so please report them to me
+-Sometimes there are problems with '"' at the start and end of an vec element.
 
 ## License
 
