@@ -10,7 +10,7 @@ A File Format for easy, fast and lightweight Array notation.
 - Is there to Help save arrays in a easy to read way
 - makes it possible to edit data fast in a normal text editor
 - Completly written in Rust
-- Isn´t there to replace things like JSON or YML
+- Isn't there to replace things like JSON or YML
 
 ## Examples:
 
